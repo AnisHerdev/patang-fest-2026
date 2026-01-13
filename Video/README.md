@@ -31,3 +31,8 @@ Big Events. Bigger Vibes.
 
 **Style:**
  Bright, clean, Holi-inspired colors, smooth transitions, modern college-fest vibe.
+
+## Generated Videos
+
+- [Using Filki.ai (mp4)](patang-2026-college-fest-promotion.mp4)
+- [Using google Veo fast (mp4)](patang_veo_fast.mp4)

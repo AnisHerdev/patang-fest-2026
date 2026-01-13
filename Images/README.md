@@ -19,6 +19,10 @@ Flat illustration style with slight depth, smooth gradients, high resolution, po
 
 No clutter, no crowd, simple composition, joyful and energetic mood.
 
+### Generated Posters
+![Patang Poster Using Nano Banana](Patang.png)
+![Patang Poster Using ChatGPT](patang_chatgpt.png)
+
 ## Brochure Prompt
 A modern tri-fold style brochure design for a university cultural and tech fest called “PATANG 2026”.
 Bright, festive yet clean layout inspired by kites and Holi colors.
@@ -65,3 +69,6 @@ Color palette inspired by Indian festivals but toned down for readability.
 
 Avoid realistic people, avoid cluttered text, avoid dark backgrounds, avoid excessive fonts, no logos, no watermarks, no photo-realism.
 Ensure the tri-fold brochure uses all three panels fully, with no empty or blank areas. Each panel should be visually balanced and completely filled with relevant design elements, illustrations, or sections.
+
+### Generated Brochure
+![Brochure](patang_brochure.png)
